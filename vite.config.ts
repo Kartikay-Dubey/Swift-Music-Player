@@ -4,6 +4,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/Swift-Music-Player/', // <-- Set your repo name here
   plugins: [
     react(),
     VitePWA({
@@ -41,4 +42,4 @@ export default defineConfig({
     port: 5173,
     strictPort: true
   }
-}); 
+});
