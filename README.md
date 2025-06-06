@@ -55,12 +55,9 @@ This is a desktop-based **Offline Music Player** created using **React**, **Vite
 
 Here are a few screenshots showcasing the UI and features of the Offline Music Player:
 
-| Home Screen | Now Playing | Dark Mode |
+| Home Screen | Themes | Settings |
 |-------------|-------------|-----------|
-| ![Home](![image](https://github.com/user-attachments/assets/04e6b290-8fd7-4cff-9db5-d809c492cb7e)
-) | ![Themes](![image](https://github.com/user-attachments/assets/97ce9717-16be-4845-9b72-f6384e8e229a)
-) | ![Settings](![image](https://github.com/user-attachments/assets/0d2a75e3-61c6-4554-8e75-f8e708bf841b)
-) |
+| ![Home](![image](https://github.com/user-attachments/assets/04e6b290-8fd7-4cff-9db5-d809c492cb7e)) | ![Themes](![image](https://github.com/user-attachments/assets/97ce9717-16be-4845-9b72-f6384e8e229a)) | ![Settings](![image](https://github.com/user-attachments/assets/0d2a75e3-61c6-4554-8e75-f8e708bf841b)) |
 
 > You can find all images in the `assets/screenshots/` folder.
 
