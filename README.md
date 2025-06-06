@@ -1,12 +1,92 @@
-# React + Vite
+# 🎧 Offline Music Player
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a desktop-based **Offline Music Player** created using **React**, **Vite**, and **Electron**. The app allows you to play audio files from your local system with a smooth user interface and modern design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀Key Features
 
-## Expanding the ESLint configuration
+- 🎵 Play and pause music
+- ⏩ Next/Previous track support
+- 🎚️ Volume control
+- 📂 Upload local audio files
+- 🌙 Dark mode interface
+- 🖥️ Works as a desktop app using Electron
+- ✨ Clean UI made with Material UI
+- 🔊 Background particle effects for extra visual feel
+- 🖱️ Easy to use – made with cursor-based design approach
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📁 Supported Audio Formats
+
+- MP3
+- WAV
+- MP4
+- WebM
+
+
+(These formats are supported using **Howler.js**)
+
+---
+
+## 🧱 Tech Stack
+
+- **React** (Frontend)
+- **Vite** (Bundler/Dev tool)
+- **Electron** (Desktop app support)
+- **Material UI** (UI components)
+- **TypeScript** (for better code structure)
+- **Howler.js** (for audio playback)
+- **Tsparticles** (background effects)
+- **Framer Motion / React Spring** (for animations)
+
+---
+
+## 🚀 Live Demo
+
+🌐 [Click here to visit the live site](https://kartikay-dubey.github.io/Swift-Music-Player/)
+
+---
+
+---
+
+## 📸 Preview
+
+Here are a few screenshots showcasing the UI and features of the Offline Music Player:
+
+| Home Screen | Now Playing | Dark Mode |
+|-------------|-------------|-----------|
+| ![Home](![image](https://github.com/user-attachments/assets/04e6b290-8fd7-4cff-9db5-d809c492cb7e)
+) | ![Themes](![image](https://github.com/user-attachments/assets/97ce9717-16be-4845-9b72-f6384e8e229a)
+) | ![Settings](![image](https://github.com/user-attachments/assets/0d2a75e3-61c6-4554-8e75-f8e708bf841b)
+) |
+
+> You can find all images in the `assets/screenshots/` folder.
+
+
+## 👨‍💻 Developer
+
+Made by **Kartikay Dubey**  
+Built with love and practice using visual tools like **Cursor** to learn by doing ❤️
+
+---
+
+## 📢 License & Usage
+
+This project is open for **viewing and learning purposes only**.  
+You are **not allowed to use, copy, modify, or distribute** this code without permission.
+
+© 2025 Kartikay Dubey. All rights reserved.
+
+---
+
+## 📧 Contact & Support
+
+If you liked this project, feel free to drop a ⭐ — it really motivates!  
+Have any suggestions, want to collaborate, or just say hi? I'd love to connect:
+
+- 🔗 [GitHub – Kartikay Dubey](https://github.com/Kartikay-Dubey)
+- 📸 [Instagram – @your_username](https://www.instagram.com/altruistic_kd/)
+- 💼 [LinkedIn – Kartikay Dubey](https://www.linkedin.com/in/kartikay-dubey-98ba73313/)
+
