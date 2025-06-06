@@ -85,6 +85,6 @@ If you liked this project, feel free to drop a ⭐ — it really motivates!
 Have any suggestions, want to collaborate, or just say hi? I'd love to connect:
 
 - 🔗 [GitHub – Kartikay Dubey](https://github.com/Kartikay-Dubey)
-- 📸 [Instagram – @your_username](https://www.instagram.com/altruistic_kd/)
+- 📸 [Instagram – Kartikay Dubey](https://www.instagram.com/altruistic_kd/)
 - 💼 [LinkedIn – Kartikay Dubey](https://www.linkedin.com/in/kartikay-dubey-98ba73313/)
 
