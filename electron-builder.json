@@ -1,0 +1,15 @@
+{
+  "appId": "com.musicplayer.app",
+  "productName": "Music Player",
+  "directories": {
+    "output": "dist_electron"
+  },
+  "files": [
+    "dist/**/*",
+    "electron/**/*"
+  ],
+  "win": {
+    "target": ["nsis"],
+    "icon": "public/icon.ico"
+  }
+} 
